@@ -1,0 +1,23 @@
+{
+  "name": "reqrez",
+  "version": "1.0.0",
+  "description": "A simple tool for placing HTTP/API requests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luke-Robinett/ReqRez.git"
+  },
+  "author": "Luke Robinett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luke-Robinett/ReqRez/issues"
+  },
+  "homepage": "https://github.com/Luke-Robinett/ReqRez#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "pkg": "^4.4.2"
+  }
+}
